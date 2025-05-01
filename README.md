@@ -31,6 +31,4 @@ Pielādēju kopu, atvēru Orange rīkā. Pafiksēju tur datus, bija problēma ar
 
 ## II daļa
 $\color{red}{\textsf{TODO: Noņemt, atstāju priekš atskaitei}}$
-Jaunus widgetus pievienoju zēmāk, lai labāk redzēt darba daļas. Pievienoju k-Means widgetu, ieliku iestātījumus gandrīz, ka [video](https://www.youtube.com/watch?v=ojxvlQSYLr0). Pēc tām pievienoju Scatter Plot, lai attēlotu dabūtos klasterus. Šoreiz palaižot Find Informative Projections, sanāca, ka labāk atdālā klasterus atrībutu kombinācija BUI/FFMC. 
-
-Pēc tām pievienoju Distances un tam Hierarchical Clustering. Pēdējā widgetā jāpaspēlās ar to līniju, jāpabīdē to. Hz, man ne īsti sanāca.
+Jaunus widgetus pievienoju zēmāk, lai labāk redzēt darba daļas. Pievienoju k-Means widgetu, ieliku iestātījumus gandrīz, ka [video](https://www.youtube.com/watch?v=ojxvlQSYLr0). Pēc tām pievienoju Scatter Plot, lai attēlotu dabūtos klasterus. Šoreiz palaižot Find Informative Projections, sanāca, ka labāk atdālā klasterus atrībutu kombinācija BUI/FFMC. Pēc tām pievienoju Distances un tam Hierarchical Clustering. Pēdējā widgetā jāpaspēlās ar to līniju, jāpabīdē to. Hz, man ne īsti sanāca.
