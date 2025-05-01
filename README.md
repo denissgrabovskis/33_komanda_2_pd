@@ -4,6 +4,11 @@
 * Izmantojam [Orange rīku](https://orangedatamining.com/)
 * Datu kopa: [Alžīrijas mežu ugunsgrēki](https://archive.ics.uci.edu/dataset/547/algerian+fores+fires+dataset)
 
+$\color{red}{\textsf{TODO: Noņemt}}$
+Vēl atrādīju šadus datasetus:
+* [Wholesale customers](https://archive.ics.uci.edu/dataset/292/wholesale+customers) - kā saprotu, tie ir fake dati
+* [Steel Industry Energy Consumption](https://archive.ics.uci.edu/dataset/851/steel+industry+energy+consumption) - šitos vnk nesaprotu, bet vrb būtu vērts tājos apskatīt. idk
+
 ## I daļa
 Datu kopā ir 244 piemēri diviem Alžīrijas regioniem: Bejaia un Sidi Bel-abbes. Mēs apvienojām to vienā. $\color{red}{\textsf{TODO: Noņemt šito?}}$
 
