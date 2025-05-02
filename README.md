@@ -69,7 +69,7 @@ Mums ir parraudzīta mācīšana (tēma 4.1), jo ir skolotājs - piemēra dati
 * Neural Network - Nirona tīkls (4.5) - šīto pēc defaulta jāizmanto, vislabāk klasificē testa datus
 
 Par tiem diviem parējiem algoritmiem (K-videjo algoritms un Hierarhiskā klasterēšana): tie vairāk bija realizēti 2. daļā. Līdz ar to patiesībā visus pieejamus algoritmus esam izmēģinājusi (lineāra regresija, loģistiska regresija, kNN algoritms un neirona tīkls). Skat. att. zemāk.
-![img](./img/kopsavilkums.png)
+![img](./img/Kopsavilkums.png)
 
 
 Paņemts no [III daļa](https://estudijas.rtu.lv/mod/hvp/view.php?id=5236887#h5pbookid=52820&chapter=h5p-interactive-book-chapter-3556d0c8-acd0-457c-ae33-196f2f6f1f76&section=0)
