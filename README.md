@@ -91,3 +91,7 @@ Ar Data Sampler widgetu sadalīju visus datus 70/30 apmācība un testa kopā. P
 Labākais, ka jau teicu, bija nierona tīkls pēc visiem parametriem. Jāprecizē, tomēr, ka mums interesē jūtīgums
 
 > * Apmācīto modeļu testēšanas rezultāti un to veiktspējas salīdzinājums un interpretācija, tos skaidri nodalot no apmācības eksperimentiem. 
+
+
+## Atskaite
+[Saite](https://docs.google.com/document/d/1qFuIQsbab0TEL92LaOCwwRWJN7EYXi3MDZI_Q1GuDBo/edit?usp=sharing)
